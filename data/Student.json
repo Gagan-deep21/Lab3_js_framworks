@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "GAGAN",
+      "role": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "NAVPREET",
+      "role": "Designer"
+    },
+    {
+      "id": 3,
+      "name": "CHANPREET",
+      "role": "Product Manager"
+    },
+    {
+      "id": 4,
+      "name": "Gagan",
+      "role": "QA Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Aryan",
+      "role": "DevOps"
+    },
+    {
+      "id": 6,
+      "name": "Rajveer",
+      "role": "Support"
+    }
+  ]
